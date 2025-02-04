@@ -27,13 +27,3 @@ This Professional Certificate contains 13 courses, as follows:
 | 11     | [Introduction to Big Data with Spark and Hadoop](./Course%2011%20-%20Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop/)|✅|[link](https://www.coursera.org/account/accomplishments/certificate/2C4FGYQAKWR2)|
 | 12     | [Data Engineering and Machine Learning using Spark](./Course%2012%20-%20Data%20Engineering%20and%20Machine%20Learning%20using%20Spark/)|✅|[link](https://www.coursera.org/account/accomplishments/certificate/ZFJDJFFQS3TA)|
 | 13     | [Data Engineering Capstone Project](./Course%2013%20-%20Data%20Engineering%20Capstone%20Project/)|✅|[link](https://www.coursera.org/account/accomplishments/certificate/FAXTQVKZUME9)|
-
-## Certification
-
-![Loc Nguyen's Certification](./Assets/IBM_Data_Engineer_Certification.jpg)
-
-## Contact
-
-Loc Nguyen Dang - lc.nguyedang123@gmail.com
-Linkedin: [locnd172](https://www.linkedin.com/in/locnd172/)
-Facebook: [Lộc](https://www.facebook.com/)
